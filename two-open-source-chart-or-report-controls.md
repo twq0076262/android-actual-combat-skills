@@ -1,7 +1,5 @@
 # [Android 实战技巧之二十：两个开源的图表/报表控件](http://blog.csdn.net/lincyang/article/details/44487153)
 
-<table class="table table-bordered table-striped table-condensed"> <tr> <td>目录(?)[+]</td> </tr> </table>
-
 项目中要用饼图和折线图表示数据，重造轮子不是咱风格，先了解一下时下比较流行的开源图表控件吧。调查发现有三个口碑不错的开源项目，它们是 MPAndroidChart、AChartEngine、HoloGraphLibrary。由于 AChartEngine 源码放在 code.google 上，遂先放弃它，主要研究其他两个在 github 上的项目。
 
 ## HoloGraphLibrary

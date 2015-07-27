@@ -1,7 +1,5 @@
 # [Android 实战技巧之三十：人脸检测-静态](http://blog.csdn.net/lincyang/article/details/45625183)
 
-<table class="table table-bordered table-striped table-condensed"> <tr> <td>目录(?)[+]</td> </tr> </table>
-
 最近微软的 how-old.net 把人脸识别技术又大大的火了一把。通过大数据和复杂的算法，能够神奇的预测出照片中人物的性别和年龄。虽然错误率也不低，但是大家都抱着玩一玩乐一乐的心态把照片传上去让机器来鉴定一下自己的颜龄。 
 
 ![fig.1](images/30-1.png)

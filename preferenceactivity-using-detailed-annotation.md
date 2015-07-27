@@ -1,7 +1,5 @@
 # [Android 实战技巧之六：PreferenceActivity 使用详解](http://blog.csdn.net/lincyang/article/details/20609673)
 
-<table class="table table-bordered table-striped table-condensed"> <tr> <td>目录       (?)[+]</td> </tr> </table>
-
 ## 一、写作前面
 
 当我们做应用的时候，需要用户配置一些信息，而这就是通常所说的应用设置。
